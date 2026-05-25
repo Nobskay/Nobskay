@@ -62,8 +62,8 @@ I enjoy building practical solutions that combine:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/noorharsy-imanullah/
+- Email: noorharsyimanullah@gmail.com
 
 ---
 
